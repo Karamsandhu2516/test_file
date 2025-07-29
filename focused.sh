@@ -1,4 +1,7 @@
 #!/bin/bash
+<<help
+This is shell
+help
 
 hero="hope"
 villain="virus"
